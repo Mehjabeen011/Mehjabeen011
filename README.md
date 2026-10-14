@@ -25,7 +25,7 @@
 Portfolio: https://mehjabeen011.github.io/Personal-Portfolio 
 ## My work
 - 📋 [Test cases from my testing project](https://docs.google.com/spreadsheets/d/1NmsHtjgp3OgGEv8f03uKnLd2FJ_YxNt-rZBtuRRIbEU/edit?usp=sharing)
-- 🌐 [My portfolio website](PASTE-YOUR-PORTFOLIO-LINK-HERE)
+- 🌐 [My portfolio website]https://mehjabeen011.github.io/Personal-Portfolio 
 
 ## Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/mehjabeen-s)
