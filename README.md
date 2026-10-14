@@ -22,7 +22,7 @@
 
 ## My work
 
-Portfolio: https://claude.ai/artifact/8uUrQNPy7KamPninkZUBBL 
+Portfolio: https://mehjabeen011.github.io/Personal-Portfolio 
 ## My work
 - 📋 [Test cases from my testing project](https://docs.google.com/spreadsheets/d/1NmsHtjgp3OgGEv8f03uKnLd2FJ_YxNt-rZBtuRRIbEU/edit?usp=sharing)
 - 🌐 [My portfolio website](PASTE-YOUR-PORTFOLIO-LINK-HERE)
