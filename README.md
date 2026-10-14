@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mehjabeen Shaikh 👋
 
-<!--
-**Mehjabeen011/Mehjabeen011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Engineer** at Point Pi, Mumbai. I test web and mobile apps (Android and iOS), write clear test cases and report defects until they are verified.
 
-Here are some ideas to get you started:
+## What I do
+- Manual testing: functional, regression, smoke, sanity, exploratory and acceptance
+- Test case design and requirement analysis
+- Bug reporting and tracking with Jira and Trello
+- Web and mobile app testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other skills
+- Java, HTML, CSS
+- Oracle PL/SQL
+- HubSpot CRM and data migration
+
+## Certifications
+- Oracle Advanced PL/SQL Developer Certified Professional
+- Java Full Stack Developer
+- Website Design
+- Testing
+
+
+## My work
+
+Portfolio: https://claude.ai/artifact/8uUrQNPy7KamPninkZUBBL 
+## My work
+- 📋 [Test cases from my testing project](https://docs.google.com/spreadsheets/d/1NmsHtjgp3OgGEv8f03uKnLd2FJ_YxNt-rZBtuRRIbEU/edit?usp=sharing)
+- 🌐 [My portfolio website](PASTE-YOUR-PORTFOLIO-LINK-HERE)
+
+## Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/mehjabeen-s)
+- ✉️ mehjabeens888@gmail.com
